@@ -1,4 +1,4 @@
-# ICP Token Forge (Lovable-free)
+# ICP Token Forge 
 
 This repository contains a React + Vite + TypeScript frontend built with Tailwind CSS and shadcn-ui.
 The project was originally created via a platform but has been cleaned to remove external platform references.
